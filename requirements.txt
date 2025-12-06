@@ -1,0 +1,13 @@
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+groq
+beautifulsoup4
+langchain-groq
+Pylance
+sse_starlette
